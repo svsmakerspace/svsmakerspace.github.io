@@ -21,6 +21,7 @@
 .projects {
     background-color: #333;
   overflow: hidden;
+    width="200p";
 }
 
 .projects a {

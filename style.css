@@ -4,7 +4,6 @@
   overflow: hidden;
     }
     .topnav a {
-        position: fixed;
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -13,7 +12,6 @@
   font-size: 17px;
 }
   .topnav a:hover {
-      position: fixed;
   background-color: #ddd;
   color: black;
 }
@@ -28,7 +26,6 @@
   background: #ccc;
 }
 .progress-bar {
-    position: fixed;
   height: 8px;
   background: #04AA6D;
   width: 0%;

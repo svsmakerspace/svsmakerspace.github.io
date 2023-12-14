@@ -19,17 +19,6 @@
   background-color: black;
   color: white;
 }    
-.progress-container {
-    position: fixed;
-  width: 100%;
-  height: 8px;
-  background: #ccc;
-}
-.progress-bar {
-  height: 8px;
-  background: #04AA6D;
-  width: 0%;
-}
 .projects {
 width: 220px;
 float: left;

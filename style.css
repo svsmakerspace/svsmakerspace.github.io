@@ -22,7 +22,7 @@
 .projects {
 width: 440px;
 float: left;
-    margin: 10px; 
+    margin: 0px; 
     height: 296px;
 backround-color: #333;
     background-position: bottom;
@@ -38,7 +38,7 @@ display: block;
     height: 250px;
 background-color: #333;
     margin: 0px;
-    padding: 9px;
+    padding: 0px;
 text-align: left;
     }
     figure img {
@@ -46,7 +46,7 @@ width: 200px;
         height: 200px;
 border: 1px solid #333;}
 figcaption {
-    padding-left: 20px;}    
+    padding-left: 0px;}    
     body {
       background-color: black;
       color: white;

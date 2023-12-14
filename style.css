@@ -27,6 +27,11 @@ float: left;
 backround-color: #333;
     background-position: bottom;
 }
+   .projectlink{
+width: 100%;margin: 10px; 
+    height: 100%;
+}
+
 figure {
 display: block;
     width: 220px;
